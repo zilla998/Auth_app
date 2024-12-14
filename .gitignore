@@ -1,0 +1,24 @@
+# OSX #
+.DS_Store
+
+# Byte-compiled / optimized / DLL files #
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Django #
+*.log
+db.sqlite3
+media
+
+# Virtual environment
+.venv
+.env
+
+.git
+
+# idea
+.idea
+*.idea/*
+.vscode
